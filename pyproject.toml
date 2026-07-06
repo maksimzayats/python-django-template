@@ -19,7 +19,7 @@ dependencies = [
     "django_redis==7.0.0",
     "djangorestframework==3.17.1",
     "djangorestframework_simplejwt==5.5.1",
-    "drf-spectacular==0.29.0",
+    "drf-spectacular==0.30.0",
     "gunicorn==26.0.0",
     "psycopg==3.3.4",
     "pyjwt==2.13.0",
