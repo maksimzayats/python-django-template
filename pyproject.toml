@@ -23,7 +23,7 @@ dependencies = [
     "gunicorn==26.0.0",
     "psycopg==3.3.4",
     "pyjwt==2.13.0",
-    "python-dotenv==1.2.2",
+    "python-dotenv==1.2.3",
     "pytz==2026.3.post1",
     "redis==8.1.0",
     "sentry-sdk==2.67.1",
